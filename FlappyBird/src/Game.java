@@ -25,7 +25,6 @@ public class Game {
     private Image message2;
     private Image backdrop;
     private Image restart;
-    private Button btn;
 
     private double time;
 
