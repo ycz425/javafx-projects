@@ -46,10 +46,10 @@ public class Game {
         time = 0;
         list = new ArrayDeque<>();
 
-        message = new Image("File:FlappyBird/src/assets/message.png");
-        message2 = new Image("File:FlappyBird/src/assets/gameover.png");
-        backdrop = new Image("File:FlappyBird/src/assets/background-day.png");
-        restart = new Image("File:FlappyBird/src/assets/start.png");
+        message = new Image("File:src/assets/message.png");
+        message2 = new Image("File:src/assets/gameover.png");
+        backdrop = new Image("File:src/assets/background-day.png");
+        restart = new Image("File:src/assets/start.png");
 
         bird = new Bird();
         base = new Base();
