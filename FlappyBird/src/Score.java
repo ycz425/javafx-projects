@@ -12,16 +12,16 @@ public class Score {
         score = 0;
 
         img = new Image[10];
-        img[0] = new Image("File:FlappyBird/src/assets/0.png");
-        img[1] = new Image("File:FlappyBird/src/assets/1.png");
-        img[2] = new Image("File:FlappyBird/src/assets/2.png");
-        img[3] = new Image("File:FlappyBird/src/assets/3.png");
-        img[4] = new Image("File:FlappyBird/src/assets/4.png");
-        img[5] = new Image("File:FlappyBird/src/assets/5.png");
-        img[6] = new Image("File:FlappyBird/src/assets/6.png");
-        img[7] = new Image("File:FlappyBird/src/assets/7.png");
-        img[8] = new Image("File:FlappyBird/src/assets/8.png");
-        img[9] = new Image("File:FlappyBird/src/assets/9.png");
+        img[0] = new Image("File:src/assets/0.png");
+        img[1] = new Image("File:src/assets/1.png");
+        img[2] = new Image("File:src/assets/2.png");
+        img[3] = new Image("File:src/assets/3.png");
+        img[4] = new Image("File:src/assets/4.png");
+        img[5] = new Image("File:src/assets/5.png");
+        img[6] = new Image("File:src/assets/6.png");
+        img[7] = new Image("File:src/assets/7.png");
+        img[8] = new Image("File:src/assets/8.png");
+        img[9] = new Image("File:src/assets/9.png");
     }
 
     public void add(){score++;}
