@@ -7,8 +7,11 @@ Contains four JavaFX applications, which replicate some well-known games includi
 ### Prerequisites
 
 * JDK 21.0.2 (or later)
+  
 * JavaFX SDK 21.0.2 (must be compatible with the JDK version)
+  
 * IntelliJ IDEA 2023.3.4 (or later)
+  
 * Windows 10 (or later) or macOS 12 (or later)
 
 ### Installing & Executing Program
@@ -34,11 +37,6 @@ Run the JavaFX applications on IntelliJ IDEA. To download and execute the applic
 ## Authors
 
 ycz425 [LinkedIn: linkedin.com/in/yuchong-zhang-4a400b2b5]
-
-## Version History
-
-* 0.1
-    * Initial Release
 
 ## License
 
