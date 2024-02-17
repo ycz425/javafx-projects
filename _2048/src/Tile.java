@@ -31,37 +31,37 @@ public class Tile {
         if (img == null)
             switch (value) {
                 case 2:
-                    img = new ImageView(new Image("File:_2048/src/tile/2.png"));
+                    img = new ImageView(new Image("File:src/tile/2.png"));
                     break;
                 case 4:
-                    img = new ImageView(new Image("File:_2048/src/tile/4.png"));
+                    img = new ImageView(new Image("File:src/tile/4.png"));
                     break;
                 case 8:
-                    img = new ImageView(new Image("File:_2048/src/tile/8.png"));
+                    img = new ImageView(new Image("File:src/tile/8.png"));
                     break;
                 case 16:
-                    img = new ImageView(new Image("File:_2048/src/tile/16.png"));
+                    img = new ImageView(new Image("File:src/tile/16.png"));
                     break;
                 case 32:
-                    img = new ImageView(new Image("File:_2048/src/tile/32.png"));
+                    img = new ImageView(new Image("File:src/tile/32.png"));
                     break;
                 case 64:
-                    img = new ImageView(new Image("File:_2048/src/tile/64.png"));
+                    img = new ImageView(new Image("File:src/tile/64.png"));
                     break;
                 case 128:
-                    img = new ImageView(new Image("File:_2048/src/tile/128.png"));
+                    img = new ImageView(new Image("File:src/tile/128.png"));
                     break;
                 case 256:
-                    img = new ImageView(new Image("File:_2048/src/tile/256.png"));
+                    img = new ImageView(new Image("File:src/tile/256.png"));
                     break;
                 case 512:
-                    img = new ImageView(new Image("File:_2048/src/tile/512.png"));
+                    img = new ImageView(new Image("File:src/tile/512.png"));
                     break;
                 case 1024:
-                    img = new ImageView(new Image("File:_2048/src/tile/1024.png"));
+                    img = new ImageView(new Image("File:src/tile/1024.png"));
                     break;
                 case 2048:
-                    img = new ImageView(new Image("File:_2048/src/tile/2048.png"));
+                    img = new ImageView(new Image("File:src/tile/2048.png"));
                     break;
             }
 
