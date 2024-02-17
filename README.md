@@ -37,7 +37,3 @@ Run the JavaFX applications on IntelliJ IDEA. To download and execute the applic
 ## Authors
 
 ycz425: [LinkedIn](linkedin.com/in/yuchong-zhang-4a400b2b5)
-
-## License
-
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
