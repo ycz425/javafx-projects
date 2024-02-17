@@ -15,9 +15,9 @@ public class Pipe {
         x = 432;
 
         if (up)
-            img = new ImageView(new Image("File:FlappyBird/src/assets/pipe-green-down.png"));
+            img = new ImageView(new Image("File:src/assets/pipe-green-down.png"));
         else
-            img = new ImageView(new Image("File:FlappyBird/src/assets/pipe-green.png"));
+            img = new ImageView(new Image("File:src/assets/pipe-green.png"));
 
         hitBox = new HitBox(90, 10000);
         centerHitBox();
