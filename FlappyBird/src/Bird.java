@@ -17,10 +17,10 @@ public class Bird {
         velocity = 10;
 
         img = new ImageView[4];
-        img[0] = new ImageView(new Image("File:FlappyBird/src/assets/yellowbird-midflap.png"));
-        img[1] = new ImageView(new Image("File:FlappyBird/src/assets/yellowbird-upflap.png"));
-        img[2] = new ImageView(new Image("File:FlappyBird/src/assets/yellowbird-downflap.png"));
-        img[3] = new ImageView(new Image("File:FlappyBird/src/assets/yellowbird-midflap.png"));
+        img[0] = new ImageView(new Image("File:src/assets/yellowbird-midflap.png"));
+        img[1] = new ImageView(new Image("File:src/assets/yellowbird-upflap.png"));
+        img[2] = new ImageView(new Image("File:src/assets/yellowbird-downflap.png"));
+        img[3] = new ImageView(new Image("File:src/assets/yellowbird-midflap.png"));
 
         //INITIALIZE AND SET HITBOX SIZE
         hitBox = new HitBox(44, 44);
