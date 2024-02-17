@@ -16,7 +16,7 @@ Contains four JavaFX applications, which replicate some well-known games includi
 
 ### Installing & Executing Program
 
-Run the JavaFX applications on IntelliJ IDEA. To download and execute the applications, follow these steps:
+The JavaFX application should be run on IntelliJ IDEA. To download and execute the applications, follow these steps:
 
 * Download the zip file from the main branch and extract the javafx-projects-main folder. This folder contains four individual project folders.
   
