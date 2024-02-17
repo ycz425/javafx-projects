@@ -7,7 +7,7 @@ public class Base {
     private HitBox hitBox;
 
     public Base(){
-        img = new ImageView(new Image("File:FlappyBird/src/assets/base.png"));
+        img = new ImageView(new Image("File:src/assets/base.png"));
         hitBox = new HitBox(768, 100);
         hitBox.setX(266);
         hitBox.setY(700);
