@@ -36,4 +36,4 @@ The JavaFX application should be run on IntelliJ IDEA. To download and execute t
 
 ## Authors
 
-ycz425: [LinkedIn](linkedin.com/in/yuchong-zhang-4a400b2b5)
+ycz425
